@@ -29,6 +29,6 @@
 ## 联系
 
 网站：https://easyjs.cn
-网站：https://www.yuque.com/easy-team
+文档：https://www.yuque.com/easy-team
 邮箱: hubcarl@126.com
 QQ群：433207205
